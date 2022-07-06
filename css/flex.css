@@ -1,0 +1,39 @@
+header {
+    height: 100px;
+    background-color: red;
+}
+nav {
+    height: 100px;
+    background-color: orangered;
+}
+.content {
+    height: 250px; 
+    background-color: yellowgreen;
+    display: flex;
+}
+.content1 {
+    /* float:left;  */
+    height: 250px; 
+    /* width:70%;  */
+    flex: 50%;
+    background-color:skyblue;
+}
+section {
+    height: 150px;
+    background-color:yellow;
+}
+article {
+    height: 100px; 
+    background-color:green;
+}
+aside {
+    /* float:right;  */
+    height: 250px;
+    /* width:30%;  */
+    flex: 50%;
+    background-color:blue
+}
+footer {
+    height: 100px;
+    background-color: purple;
+}

@@ -1,0 +1,16 @@
+@import "reset.css";
+
+h1 {
+    font-size: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.section1 {
+    height: 150px;
+    background-color: #5f9ea0;
+}
+
+.section2 {
+    float:left
+}

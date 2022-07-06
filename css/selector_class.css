@@ -1,0 +1,8 @@
+@import "css/reset.css";
+
+.list ul li {
+    color: blue
+}
+.list ul li:nth-of-type(3) {
+    color:red
+}
